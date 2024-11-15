@@ -5,5 +5,4 @@ An interesting CTF developed for TMP Tour 2024.
 You can visit the URL or scan the code to play CTF.
 https://mindful-goat-gscopc-dev-ed.trailblaze.my.salesforce-sites.com/
 
-
-![image](https://git.soma.salesforce.com/storage/user/31505/files/f93b3386-9b98-494a-b60c-ac2398d0f269)
+<img width="253" alt="CTF" src="https://github.com/user-attachments/assets/f1a07dc8-651a-4a26-81a7-0fa90e6cebae">
