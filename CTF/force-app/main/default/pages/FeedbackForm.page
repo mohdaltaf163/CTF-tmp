@@ -1,0 +1,16 @@
+<apex:page controller="FeedbackController">
+    <h1>Feedback Form</h1>
+    <apex:form>
+        <apex:pageMessages />
+        <apex:inputField value="{!feedback.Name}" label="Name" />
+        <apex:inputField value="{!feedback.Email__c}" label="Email" />
+        <apex:inputField value="{!feedback.Comment__c}" label="Comment" />
+        <apex:inputField value="{!feedback.IsSensitive__c}" label="Sensitive Info" />
+        <apex:commandButton value="Submit" action="{!submitFeedback}" />
+    </apex:form>
+
+    <!-- This will display the hint at the bottom of the page -->
+    <p style="font-size: small; color: gray; text-align: center;">
+        Null Hyderabad Community resource/1724426344000/Hint
+    </p>
+</apex:page>
